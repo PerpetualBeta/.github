@@ -1,6 +1,6 @@
 # Jorvik Software
 
-Free, open-source macOS utilities and classic arcade game recreations. Built with Swift, SwiftUI, and vanilla JavaScript.
+Free, open-source macOS utilities, screensavers, and classic arcade game recreations. Built with Swift, SwiftUI, and vanilla JavaScript.
 
 ### 🖥️ macOS Utilities
 
@@ -12,6 +12,12 @@ Free, open-source macOS utilities and classic arcade game recreations. Built wit
 | [CalendarUpcoming](https://github.com/PerpetualBeta/CalendarUpcoming) | Calendar alerts with colour-coded pulsing menu bar icon |
 | [ActiveSpace](https://github.com/PerpetualBeta/ActiveSpace) | Mission Control space number in the menu bar |
 | [RainbowApple](https://github.com/PerpetualBeta/RainbowApple) | Classic 1977 rainbow Apple logo in your menu bar |
+
+### 🖼️ Screensavers
+
+| App | Description |
+|-----|-------------|
+| [ASCII Saver](https://github.com/PerpetualBeta/ASCIISaver) | Real-time ASCII art from your camera — Classic, Matrix, Amber, Silhouette modes |
 
 ### 🕹️ Browser Games
 
